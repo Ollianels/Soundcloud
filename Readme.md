@@ -1,1 +1,1 @@
-(https://on.soundcloud.com/j2iq3)[music]
+[music](https://on.soundcloud.com/j2iq3)
